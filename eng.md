@@ -35,5 +35,5 @@ look at how I've implemented error checking in analytics:
 Now when you go into Google Analytics, you can view the custom event
 information along with other site stats.  Of course you'll tell the marketing
 people those aren't really error, they're features, but that's another story.
-Consider using Google Analytics for to track site errors -- you can thank me
+Consider using Google Analytics for to track site errors — you can thank me
 later.
